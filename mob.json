@@ -1,0 +1,8 @@
+{
+    "name": "Mob-Disply",
+    "short_name": "D-Mob",
+    "start_url": "/",
+    "disply":"standalone",
+    "background_color": "#333",
+    "description": "Mob-dsiply",
+   } 
